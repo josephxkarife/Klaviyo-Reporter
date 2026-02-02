@@ -1,3 +1,4 @@
+import "./styles.css";
 import React, { useMemo, useRef, useState } from "react";
 import {
   BarChart,
